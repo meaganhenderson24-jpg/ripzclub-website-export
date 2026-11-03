@@ -1,0 +1,11 @@
+{
+  "wheel": {
+    "image": "/assets/mystery-wheel.jpg",
+    "imageAlt": "Ripz Club mystery wheel illustration"
+  },
+  "santa": {
+    "image": "/assets/ripzclub-santa-promo-banner.png",
+    "imageAlt": "Santa's Surprise Box advert",
+    "buttonLabel": "See the box"
+  }
+}
